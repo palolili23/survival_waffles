@@ -1,0 +1,13 @@
+base
+ggplot2
+ggwaffle
+tidyverse
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+kableExtra
+waffle
